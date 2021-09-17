@@ -1,0 +1,12 @@
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\bin\Debug\Asignación No.5.exe.config
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\bin\Debug\Asignación No.5.exe
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\bin\Debug\Asignación No.5.pdb
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\bin\Debug\Asignación No.5.xml
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.vbprojAssemblyReference.cache
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación_No._5.Form1.resources
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación_No._5.Resources.resources
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.vbproj.GenerateResource.cache
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.vbproj.CoreCompileInputs.cache
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.exe
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.xml
+C:\Users\Trmca\Documents\UTP\semestre 2 2021\Des Soft VIII\Asignación No. 5\Asignación No.5\obj\Debug\Asignación No.5.pdb
